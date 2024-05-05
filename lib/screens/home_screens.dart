@@ -15,7 +15,7 @@ class HomeScreen extends StatelessWidget {
             children: [
               const CircleAvatar(
                 radius: 50,
-                backgroundColor: Colors.black,
+                backgroundColor: Colors.red,
                 backgroundImage: AssetImage(
                   'assets/images/melis.jpeg',
                 ),
